@@ -1,1 +1,2 @@
-# ML_neural_networks
+# Neural Networks & Deep Learning
+* MNIST Classification
